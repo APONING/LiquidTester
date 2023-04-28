@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">DeMilk</string>
+    <string name="selectFile">选择文件</string>
+    <string name="play">播放文件</string>
+    <string name="record">开始录音</string>
+    <string name="testSpeaker">扬声器</string>
+    <string name="filePath">filePath</string>
+    <string name="stopRecord">停止录音</string>
+    <string name="uploadFile">上传文件</string>
+    <string name="sensorData">sensorData</string>
+</resources>
